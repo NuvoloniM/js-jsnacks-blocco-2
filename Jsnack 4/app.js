@@ -8,9 +8,6 @@ Aggiungi elementi all’array che ha meno elementi fino a quando ne avrà tanti 
 let listA = ["mele", "pere", "banane", "fragole", "more", "lamponi", "ananas"];
 let listB = ["rosso", "blu", "giallo", "grigio", "rosa"];
 
-
-// let x = parseInt(listA.length) - parseInt(listB.length);
-
 //mi chiedo se list a > b
 if (listA.length > listB.length) {
     // imposto x come la differenza tra le due lunghezze => sarà per quante volte ripeto il ciclo
